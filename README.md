@@ -1,4 +1,4 @@
-# Sweet Crust Bakery — Business Landing Page
+# Sweet Crusty Bakery — Business Landing Page
 
 A modern, elegant single-page website concept designed for an artisan bakery business. Built as a client-style project to showcase a warm, editorial brand aesthetic for a small food business — from hero storytelling to menu, gallery, testimonials, and a contact form.
 
@@ -34,8 +34,8 @@ No frameworks, no build tools — a single self-contained HTML file, deployed as
 Clone the repo and open the file directly, or serve it locally:
 
 ```bash
-git clone https://github.com/Rebecca0-12/sweet-crust-bakery.git
-cd sweet-crust-bakery
+git clone https://github.com/Rebecca0-12/Sweet--crusty--bakery.git
+cd Sweet--crusty--bakery
 # then just open index.html in your browser
 ```
 
@@ -45,4 +45,4 @@ This was built as a concept/portfolio piece exploring bakery/food-business brand
 
 ## Author
 
-Design and development by Rebecca S..
+Design and development by Rebecca S.
