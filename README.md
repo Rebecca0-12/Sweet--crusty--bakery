@@ -34,7 +34,7 @@ No frameworks, no build tools — a single self-contained HTML file, deployed as
 Clone the repo and open the file directly, or serve it locally:
 
 ```bash
-git clone https://github.com/your-username/sweet-crust-bakery.git
+git clone https://github.com/Rebecca0-12/sweet-crust-bakery.git
 cd sweet-crust-bakery
 # then just open index.html in your browser
 ```
@@ -45,4 +45,4 @@ This was built as a concept/portfolio piece exploring bakery/food-business brand
 
 ## Author
 
-Design and development by [Rebecca S.].
+Design and development by Rebecca S..
