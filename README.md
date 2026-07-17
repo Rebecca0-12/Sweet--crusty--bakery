@@ -2,7 +2,7 @@
 
 A modern, elegant single-page website concept designed for an artisan bakery business. Built as a client-style project to showcase a warm, editorial brand aesthetic for a small food business — from hero storytelling to menu, gallery, testimonials, and a contact form.
 
-**🔗 Live Demo:** [shiny-malasada-f40a0f.netlify.app](https://shiny-malasada-f40a0f.netlify.app)
+**🔗 Live Demo:** [view the website](https://shiny-malasada-f40a0f.netlify.app)
 
 ## About This Project
 
